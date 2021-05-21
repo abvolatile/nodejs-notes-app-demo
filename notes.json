@@ -1,0 +1,22 @@
+[
+    {
+        "title": "first note",
+        "body": "this is our very first note!"
+    },
+    {
+        "title": "note deux",
+        "body": "this is another note!!"
+    },
+    {
+        "title": "UGHH",
+        "body": "this dude is SOOOOOOOOOOOO boring"
+    },
+    {
+        "title": "Courses",
+        "body": "Node.js, React, ASP.NET"
+    },
+    {
+        "title": "Error msg",
+        "body": "Crash!"
+    }
+]
